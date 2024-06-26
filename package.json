@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postexport": "cp -r .next/static out/_next"
+    "lint": "next lint"
   },
   "dependencies": {
     "react": "^18",
